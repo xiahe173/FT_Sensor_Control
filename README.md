@@ -11,7 +11,7 @@
   ```
 
 - **Calibration:**
-  By default, the firmware calibrates the sensor by reading 1000 samples and taking the average. This is done once the sensor is powered on.
+  By default, the firmware calibrates the sensor by reading 100 samples and taking the average. This is done once the sensor is powered on.
   To recalibrate, send 't\n' to the serial port.
 
 ## Software
